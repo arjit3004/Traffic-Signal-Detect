@@ -15,7 +15,7 @@ https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 3. Then run GUI to identify traffic signal, ```python Identify_SYmbol_GUI.py``` 
 
 ## Output
-![img1](Screenshot/img1.png=20x20)  ![img2](Screenshot/img2.png) ![img3](Screenshot/img3.png)  ![img4](Screenshot/img4.png)
+![img1](Screenshot/img1.png=5x5x)  ![img2](Screenshot/img2.png=5x5) ![img3](Screenshot/img3.png=5x5)  ![img4](Screenshot/img4.png==5x5)
 
 I had successfully classified the traffic signs classifier with 96.11% accuracy and also visualized how my model accuracy and loss changes with time, which is pretty good from a simple CNN model.
 
