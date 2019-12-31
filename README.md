@@ -15,7 +15,7 @@ https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 3. Then run GUI to identify traffic signal, ```python Identify_SYmbol_GUI.py``` 
 
 ## Output
-<img src="https://github.com/arjit3004/Traffic-Signal-Detect/blob/master/Screenshot/img1.png" height= 200 width=200>  <img  src="https://github.com/arjit3004/Traffic-Signal-Detect/blob/master/Screenshot/img2.png" height= 200 width=200>  <img  src="https://github.com/arjit3004/Traffic-Signal-Detect/blob/master/Screenshot/img3.png" height= 200 width=200>  <img  src="https://github.com/arjit3004/Traffic-Signal-Detect/blob/master/Screenshot/img4.png" height= 200 width=200>
-200
+<img src="https://github.com/arjit3004/Traffic-Signal-Detect/blob/master/Screenshot/img1.png" height= 400 width=400>  <img  src="https://github.com/arjit3004/Traffic-Signal-Detect/blob/master/Screenshot/img2.png" height= 400 width=400>  <img  src="https://github.com/arjit3004/Traffic-Signal-Detect/blob/master/Screenshot/img3.png" height= 400 width=400>  <img  src="https://github.com/arjit3004/Traffic-Signal-Detect/blob/master/Screenshot/img4.png" height= 400 width=400>
+
 I had successfully classified the traffic signs classifier with 96.11% accuracy and also visualized how my model accuracy and loss changes with time, which is pretty good from a simple CNN model.
 
